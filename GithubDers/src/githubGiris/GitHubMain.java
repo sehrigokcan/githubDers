@@ -7,10 +7,7 @@ public class GitHubMain {
 		System.out.println("Hello Github!");
 		System.out.println("Hello GitHub Hello Eclipse"); 
 		System.out.println("Second version..");
-
-		System.out.println("Second version..");
-
-		System.out.println("Second version..");
+		System.out.println("Homework Branch version..");
 
 	}
 
