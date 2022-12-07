@@ -6,6 +6,7 @@ public class GitHubMain {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Github!");
 		System.out.println("Second..");
+		System.out.println("Hello GitHub Hello Eclipse"); 
 	}
 
 }
